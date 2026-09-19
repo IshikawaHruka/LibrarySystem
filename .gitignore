@@ -1,0 +1,20 @@
+# Visual Studio workspace files
+.vs/
+*.suo
+*.user
+
+# Build outputs and intermediate files
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.exe
+*.dll
+*.recipe
